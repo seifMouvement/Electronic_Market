@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.RepositoryContracts.dll
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.RepositoryContracts.pdb
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DataLayer.dll
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DomainModels.dll
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DataLayer.pdb
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DataLayer.dll.config
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DomainModels.pdb
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\Compagny.DomainModels.dll.config
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\obj\Debug\Compagny.RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\obj\Debug\Compagny.RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\obj\Debug\Compagny.RepositoryContracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\obj\Debug\Compagny.RepositoryContracts.dll
+C:\Users\Admin\Desktop\ASP.NET MVC\EFDbFirstApprocheExample\Compagny.RepositoryContracts\obj\Debug\Compagny.RepositoryContracts.pdb
