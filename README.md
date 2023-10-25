@@ -19,4 +19,7 @@ The management of users is done using ASP.NET Identity.
   . Update-Database
 
 ## Screenshot
-
+<div>
+  <img src="./login.PNG" alt="Texte alternatif de l'image 1" width="300" />
+  <img src="./product.PNG" alt="Texte alternatif de l'image 2" width="300" />
+</div>
