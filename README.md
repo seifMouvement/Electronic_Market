@@ -7,6 +7,11 @@ The management of users is done using ASP.NET Identity.
 
 ## Architecture
 ![Architecture](./Architecture.PNG)
+<div>
+  <img src="./Architecture.PNG" alt="Texte alternatif de l'image 1" width="500" />
+  <img src="./Architecture.PNG" alt="Texte alternatif de l'image 2" width="500" />
+</div>
+
 
 ## How to run
 1. Download or Clone the Project.
