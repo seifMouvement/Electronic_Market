@@ -7,11 +7,6 @@ The management of users is done using ASP.NET Identity.
 
 ## Architecture
 ![Architecture](./Architecture.PNG)
-<div>
-  <img src="./Architecture.PNG" alt="Texte alternatif de l'image 1" width="500" />
-  <img src="./Architecture.PNG" alt="Texte alternatif de l'image 2" width="500" />
-</div>
-
 
 ## How to run
 1. Download or Clone the Project.
@@ -22,3 +17,6 @@ The management of users is done using ASP.NET Identity.
 3. Execute the SQL script found in the sql.txt file to create the database and tables
 4. The database migration to create the user management tables is already available in the IdentityMigration folder; you just need to run the following command:<br>
   . Update-Database
+
+## Screenshot
+
